@@ -1,6 +1,6 @@
 {
   "name": "express-bookshelf-jsonapi",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Create JSON API endpoints from bookshelf",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
     "debug": "2.2.0",
     "express": "4.14.0",
     "ghost-ignition": "2.3.0",
-    "jsonapi-mapper": "https://github.com/sam-lord/jsonapi-mapper/tarball/21cdf86218e42c17ae0ad71cb47740e12622c93e",
+    "jsonapi-mapper": "https://github.com/sam-lord/jsonapi-mapper/tarball/723e975e04c51b42620280ab3d2af40f70133f3b",
     "jsonapi-query-parser": "1.3.1",
     "lodash": "4.16.4",
     "merge-descriptors": "1.0.1"
